@@ -34,9 +34,8 @@ Welcome to My Awesome Donation Website! This web application is designed to faci
 
 ## Usage
 
-To run this website locally, follow these steps:
+To visit this website , follow these steps:
 
-1. Clone the repository:
+1. Visit Site:
 
-   ```bash
-   git clone https://github.com/yourusername/my-awesome-donation-website.git
+   live link: https://donation-campaign-mu.vercel.app/
